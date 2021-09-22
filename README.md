@@ -15,3 +15,8 @@
 - Установить пакеты ```pip3 install requirements.txt```
 - Запустить миграции ```./manage.py migrate```
 - Запустить локальный сервер ```./manage.py runserver```
+
+
+### Демонстрация на Heroku
+
+Ссылка - https://ancient-atoll-02784.herokuapp.com/
